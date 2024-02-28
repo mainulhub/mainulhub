@@ -1,25 +1,25 @@
 <h1>Mainul Hossain</h1>
 
-About Me
-Hello! I'm [Mainul Hossain], a [Data Analyst] based in [Estonia]. I'm passionate about [Data Analysis, Machine Learning, Applied Mathematics and Computational Physis], and I love [Computer Programming using different languages such as Python, C, C++, C#, Java].
+<h3>About Me</h3>
+Hello! I'm <b>Mainul Hossain</b>, a Data Analyst based in Estonia. I'm passionate about Data Analysis, Machine Learning, Applied Mathematics, and Computational Physics, and I love Computer Programming using different languages such as Python, C, C++, C#, and Java.
 
-Skills
+<h3>Skills</h3>
 Programming Languages: [List of languages you are proficient in]
 Technologies: [List of technologies you have experience with]
 Tools: [List of tools you frequently use]
 Soft Skills: [List of soft skills you possess]
-Projects
+<h3>Projects</h3>
 Here are some projects I've worked on:
 
-[Project Name 1]
+<h3>Project Name 1</h3>
 Description: [Brief description of the project]
 Technologies Used: [List of technologies used]
 Link: [Link to the project repository or live demo]
-[Project Name 2]
+<h3>Project Name 2</h3>
 Description: [Brief description of the project]
 Technologies Used: [List of technologies used]
 Link: [Link to the project repository or live demo]
-[Project Name 3]
+<h3>Project Name 3</h3>
 Description: [Brief description of the project]
 Technologies Used: [List of technologies used]
 Link: [Link to the project repository or live demo]
