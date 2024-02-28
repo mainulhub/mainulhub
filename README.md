@@ -1,4 +1,5 @@
-[Mainul Hossain]
+<h1>Mainul Hossain</h1>
+
 About Me
 Hello! I'm [Mainul Hossain], a [Data Analyst] based in [Estonia]. I'm passionate about [Data Analysis, Machine Learning, Applied Mathematics and Computational Physis], and I love [Computer Programming using different languages such as Python, C, C++, C#, Java].
 
