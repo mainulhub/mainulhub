@@ -4,12 +4,12 @@
 Hello! I'm <b>Mainul Hossain</b>, a Data Analyst based in Estonia. I'm passionate about Data Analysis, Machine Learning, Applied Mathematics, and Computational Physics, and I love Computer Programming using different languages such as Python, C, C++, C#, and Java.
 
 <h3>Skills</h3>
-<b>Programming Languages:</b> 
-Proficient in Python for data analysis, and machine learning. </br>
-Experienced with C, C++, and C# for software development. </br>
-Skilled in Java for desktop application development and Web app development. </br>
-Familiar with PHP for web development and server-side scripting. </br>
-Proficient in JavaScript for front-end web development and interactive web applications. </br>
+<b>Programming Languages:</b> </br>
+Proficient in <b>Python</b> for data analysis, and machine learning. </br>
+Experienced with <b>C, C++, and C#</b> for software development. </br>
+Skilled in <b>Java</b> for desktop application development and Web app development. </br>
+Familiar with <b>PHP</b> for web development and server-side scripting. </br>
+Proficient in <b>JavaScript</b> for front-end web development and interactive web applications. </br>
 
 <h3>Projects</h3>
 Here are some projects I've worked on:
