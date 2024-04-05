@@ -10,6 +10,7 @@ Experienced with <b>C, C++, and C#</b> for software development. </br>
 Skilled in <b>Java</b> for desktop application development and Web app development. </br>
 Familiar with <b>PHP</b> for web development and server-side scripting. </br>
 Proficient in <b>JavaScript</b> for front-end web development and interactive web applications. </br>
+Competent in <b>MySQL and SQL Server</b> for database management and querying. </br>
 
 <h3>Projects</h3>
 Here are some projects I've worked on:
