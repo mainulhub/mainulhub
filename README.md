@@ -15,7 +15,7 @@ Competent in <b>MySQL and SQL Server</b> for database management and querying. <
 <h3>Projects</h3>
 Here are some projects I've worked on:
 
-<h3>Project Name 1</h3>
+<h3><a href='https://github.com/mainulhub/Lasso_Viscoelastic/tree/main'> Lasso Regression for Viscoelastic Material </a></h3>
 Description: [Brief description of the project]
 Technologies Used: [List of technologies used]
 Link: [Link to the project repository or live demo]
