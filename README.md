@@ -16,9 +16,11 @@ Competent in <b>MySQL and SQL Server</b> for database management and querying. <
 Here are some projects I've worked on:
 
 <h3><a href='https://github.com/mainulhub/Lasso_Viscoelastic/tree/main'> Lasso Regression for Viscoelastic Material </a></h3>
-Description: [Brief description of the project]
+Description: [In this work, the Lasso Regression technique has been applied to calculate the shear modulus of viscoelastic material from experimental data. This experimental data represents storage modulus and loss modulus for different values of frequency. This data has been collected from dynamic tests on composite glass specimens with a PVB interlayer. ]
 Technologies Used: [List of technologies used]
 Link: [Link to the project repository or live demo]
+
+
 <h3>Project Name 2</h3>
 Description: [Brief description of the project]
 Technologies Used: [List of technologies used]
