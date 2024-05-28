@@ -18,7 +18,7 @@ Here are some projects I've worked on:
 <h3><a href='https://github.com/mainulhub/Lasso_Viscoelastic/tree/main'> Lasso Regression for Viscoelastic Material </a></h3>
 <p align='justify'><b>Description:</b> In this work, the Lasso Regression technique has been applied to calculate the shear modulus of viscoelastic material from experimental data. This experimental data represents storage modulus and loss modulus for different values of frequency. This data has been collected from dynamic tests on composite glass specimens with a PVB interlayer. </p><br/>
 
-<h3><a href='https://github.com/mainulhub/Lasso_Viscoelastic/tree/main'> Lasso Regression and Clustering for Viscoelastic Material </a></h3>
+<h3><a href='https://github.com/mainulhub/Lasso_Cluster_Viscoelestic/tree/main'> Lasso Regression and Clustering for Viscoelastic Material </a></h3>
 <p align='justify'><b>Description:</b> In this work, the Lasso Regression technique has been applied to calculate the shear modulus of viscoelastic material from experimental data. This experimental data represents storage modulus and loss modulus for different values of frequency. This data has been collected from dynamic tests on composite glass specimens with a PVB interlayer. </p><br/>
 
 <h3>Project Name 3</h3>
