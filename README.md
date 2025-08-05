@@ -15,8 +15,8 @@ Competent in <b>MySQL and SQL Server</b> for database management and querying. <
 <h3>Projects</h3>
 Here are some projects I've worked on:
 
-<h3><a href='https://github.com/mainulhub/Lasso_Viscoelastic/tree/main'> Lasso Regression for Viscoelastic Material </a></h3>
-<p align='justify'><b>Description:</b> In this work, the Lasso Regression technique has been applied to calculate the shear modulus of viscoelastic material from experimental data. This experimental data represents storage modulus and loss modulus for different values of frequency. This data has been collected from dynamic tests on composite glass specimens with a PVB interlayer. </p><br/>
+<h3><a href='https://github.com/mainulhub/Inter_Mixer_Performance/tree/main'> Inter Mixer Performance Analysis in 3D Printing </a></h3>
+<p align='justify'><b>Description:</b> This code is designed to evaluate the performance of an inter-mixer using advanced image processing techniques. It allows for clear comparison across different inter-mixer configurations and effectively identifies the best-performing inter-mixer based on objective, quantifiable image characteristics. </p><br/>
 
 <h3><a href='https://github.com/mainulhub/Lasso_Viscoelastic/tree/main'> Lasso Regression for Viscoelastic Material </a></h3>
 <p align='justify'><b>Description:</b> In this work, the Lasso Regression technique has been applied to calculate the shear modulus of viscoelastic material from experimental data. This experimental data represents storage modulus and loss modulus for different values of frequency. This data has been collected from dynamic tests on composite glass specimens with a PVB interlayer. </p><br/>
